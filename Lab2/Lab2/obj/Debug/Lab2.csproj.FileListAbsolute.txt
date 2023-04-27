@@ -1,0 +1,19 @@
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Alex\Programs\Программирование\РиПОД\Распределенная и параллельная обработка данных\My labs\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\books\3 курс РиПОД\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\books\3 курс РиПОД\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\books\3 курс РиПОД\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\books\3 курс РиПОД\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\books\3 курс РиПОД\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\books\3 курс РиПОД\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\books\3 курс РиПОД\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\books\3 курс РиПОД\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\books\3 курс РиПОД\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\books\3 курс РиПОД\Lab2\Lab2\obj\Debug\Lab2.pdb
